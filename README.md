@@ -13,3 +13,7 @@ The MNDSearchUtil.ArrayUtil and MNDSearchUtil.ListUtil have the following method
 The MNDSearchUtil.SortedListUtil has the following methods:
 - LowerBound()
 - UpperBound()
+
+
+All methods mentioned above have a time complexity of log(n)
+
