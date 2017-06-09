@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="MNDSearchUtil/MNDSearchUtil.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MNDSearchUtil/SortedListUtility.cs">
+    <Files>
+      <File FileName="MNDSearchUtil/ArrayUtility.cs" Line="70" Column="9" />
+      <File FileName="MNDSearchUtil/ListUtility.cs" Line="76" Column="9" />
+      <File FileName="MNDSearchUtil/SortedListUtility.cs" Line="63" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MNDSearchUtil" expanded="True">
+            <Node name="MNDSearchUtil" expanded="True">
+              <Node name="SortedListUtility.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
