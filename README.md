@@ -3,14 +3,14 @@ A C# alternative for C++ STL lower_bound() and upper_bound() search functionalit
 
 This repository provides additional search functionalities for C# Array,List, and SortedList classes.
 
-The MNDSearchUtil.ArrayUtil and MNDSearchUtil.ListUtil have the following methods:
+The MNDSearchUtil.ArrayUtility and MNDSearchUtil.ListUtility have the following methods:
 - LowerBound()
 - UpperBound()
 - BinarySearchFirstIndex()
 - BinarySearchLastIndex()
 
 
-The MNDSearchUtil.SortedListUtil has the following methods:
+The MNDSearchUtil.SortedListUtility has the following methods:
 - LowerBound()
 - UpperBound()
 
