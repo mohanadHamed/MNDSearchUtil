@@ -1,7 +1,7 @@
 # MNDSearchUtil
 A C# alternative for C++ STL lower_bound() and upper_bound() search functionalities.
 
-This repository provides additional search functionalities for C# Array,List, and SortedList classes.
+This repository provides additional search functionalities for C# Array, List, and SortedList classes.
 
 The MNDSearchUtil.ArrayUtility and MNDSearchUtil.ListUtility have the following methods:
 - LowerBound()
